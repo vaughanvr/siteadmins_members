@@ -1,6 +1,10 @@
 # siteadmins_members
 Creates a CSV list of members from group site admins pulled from the domain controller
-#Copyright
+
+
+
+
+# Copyright
 Copyright 2020  (Vaughan) VV
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
